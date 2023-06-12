@@ -31,7 +31,7 @@ This is a assignment project for the course `Front End Development` Dicoding.
 
 ### Live Demo
 
-[lindoz.me](https://todolist-me.vercel.app/)
+[Todo List Apps](https://todolist-me.vercel.app/)
 
 ### Built With
 
